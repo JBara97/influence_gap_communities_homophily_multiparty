@@ -4,8 +4,6 @@ Code, data and figures associated with the papers Bara et al. (2020,2021,2022).
 
 'assortment_functions.py' contains (most) of the functions that I've used and are somewhat documented.
 
-'community-informed-gerrymandering.ipynb' is a Jupyter Notebook in which all of the computations for the NETREASON paper had been done.
-
 'Alternative metrics.ipynb' is a Jupyter Notebook in which I've tested alternative metrics and dynamics on different graphs (SBM, BA, hRC, zachary karate club).
 
 'Multiparty.ipynb' was the first Jupyter Notebook to work on the multiparty case.
